@@ -1,0 +1,6 @@
+Revision history for Perl extension HTML::TextArrayGenerator.
+
+0.01  Tue Jul  8 00:50:00 2003
+	- original version; created by h2xs 1.22 with options
+		-X -n HTML::TextArrayGenerator TextArrayGenerator.pm.bak
+
